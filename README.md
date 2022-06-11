@@ -13,7 +13,7 @@
 
 # Autor
 ---
- <sub><b>John Dias 👋🏽 </b></sub></a>
+ <h1><b>John Dias 👋🏽 </b></h1></a>
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=johnmarl0n)
 
